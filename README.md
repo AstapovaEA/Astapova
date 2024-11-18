@@ -18,3 +18,9 @@
 
 <div align="center">
 :pray: Обо мне:
+
+- :sleeping: Факт обо мне 
+
+- :smile: Факт обо мне 
+
+- :cat: Факт обо мне 
