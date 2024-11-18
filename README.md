@@ -17,4 +17,4 @@
 </div>
 
 <div aling="left">
-### :pray: Обо мне:
+:pray: Обо мне:
