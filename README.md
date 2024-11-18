@@ -16,5 +16,5 @@
 <h1> Профиль на GITHUB </h1>
 </div>
 
-<div aling="center">
+<div align="left">
 :pray: Обо мне:
