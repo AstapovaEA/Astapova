@@ -16,7 +16,7 @@
 <h1> Профиль на GITHUB </h1>
 </div>
 
-<div align="center">
+
 :pray: Обо мне:
 
 - :sleeping: Факт обо мне 
